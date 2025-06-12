@@ -116,8 +116,9 @@ python Code/CDAS3.py     # Stage 3: Predictions & metrics
 
 python Code/CDAS4.py     # Stage 4: Advanced visualisations
 
+---
 
-📊 Results & Key Findings
+## 📊 Results & Key Findings
 
 Flight Booking Prediction Model Performance (Test Set):
 
@@ -135,8 +136,9 @@ Customer Loyalty Tier
 
 Lounge Demand Insight: The highest premium lounge eligibility is observed for early-morning long-haul flights and flights to/from North America.
 
+---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -144,15 +146,17 @@ Feel free to check the issues page if you have any.
 
 You can also fork the repository and submit a pull request.
 
+---
 
-📫 Contact
+## 📫 Contact
 
 Oluwadarasimi Bamisaye Joshua - GitHub Profile
 
 Project Link: https://github.com/joshua-the-analyst/ba-simulation
 
+---
 
-📝 License
+## 📝 License
 
 This project is licensed under the MIT License.
 
