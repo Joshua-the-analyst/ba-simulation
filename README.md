@@ -48,11 +48,9 @@ ba-simulation/
 │
 ├── data/
 │ ├── customer_booking.csv # Raw booking dataset
-│ └── final_processed_dataset_stage1.pkl # Cleaned & feature-engineered data
+│ └── final_processed_dataset_stage1.pkl # Cleaned & feature-engineered data (excluded due to size limits)
 │
-├── models/
-│ ├── best_random_forest_model.pkl # Trained RandomForest model object
-│ └── model_eval_components.pkl # Metrics & plot data for evaluation
+├── models/ (excluded due to size limits – model results shown in slides and plots)
 │
 ├── customer_booking_model_slide.pptx # Presentation deck of model results
 ├── Lounge Eligibility Lookup Table.xlsx # Output table for lounge eligibility
