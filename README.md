@@ -120,21 +120,21 @@ python Code/CDAS4.py     # Stage 4: Advanced visualisations
 
 ## 📊 Results & Key Findings
 
-Flight Booking Prediction Model Performance (Test Set):
+Flight Booking Prediction Model Performance (Test Set): 
 
-ROC-AUC: 0.79
+**ROC-AUC: 0.79**
 
 Other metrics (Accuracy, Precision, Recall, F1-score) are detailed in Stage 3 outputs and visualizations.
 
-Top Predictors for Flight Booking:
+**Top Predictors for Flight Booking:**
 
-Origin–Route Pair
+1. Origin–Route Pair
 
-Departure Time Window
+2. Departure Time Window
 
-Customer Loyalty Tier
+3. Customer Loyalty Tier
 
-Lounge Demand Insight: The highest premium lounge eligibility is observed for early-morning long-haul flights and flights to/from North America.
+**Lounge Demand Insight:** The highest premium lounge eligibility is observed for early-morning long-haul flights and flights to/from North America.
 
 ---
 
