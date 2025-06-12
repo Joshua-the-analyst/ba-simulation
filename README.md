@@ -34,7 +34,7 @@ This repository showcases an end-to-end data science workflow, transforming over
 ---
 
 ## 📁 Repository Structure
-
+```bash
 ba-simulation/
 ├── CDAS_img/ # Stage 1 visuals (cleaning & EDA)
 ├── CDAS3_img/ # Stage 3 visuals (confusion, ROC/PR)
@@ -58,6 +58,7 @@ ba-simulation/
 ├── Lounge Eligibility Lookup Table.xlsx # Output table for lounge eligibility
 ├── requirements.txt # Python dependencies
 └── README.md # This file
+```
 ---
 
 ## 🗃️ Data Description
