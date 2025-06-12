@@ -105,32 +105,55 @@ ba-simulation/
 ---
 
 ## ▶️ Usage
+
 Run the Python scripts sequentially from the `Code/` directory to execute the pipeline:
+
 python Code/CDAS.py      # Stage 1: Data preparation & EDA
+
 python Code/CDAS2.py     # Stage 2: Train & save model 
+
 python Code/CDAS3.py     # Stage 3: Predictions & metrics
+
 python Code/CDAS4.py     # Stage 4: Advanced visualisations
 
+
 📊 Results & Key Findings
+
 Flight Booking Prediction Model Performance (Test Set):
+
 ROC-AUC: 0.79
+
 Other metrics (Accuracy, Precision, Recall, F1-score) are detailed in Stage 3 outputs and visualizations.
+
 Top Predictors for Flight Booking:
+
 Origin–Route Pair
+
 Departure Time Window
+
 Customer Loyalty Tier
-Lounge Demand Insight:
-The highest premium lounge eligibility is observed for early-morning long-haul flights and flights to/from North America.
+
+Lounge Demand Insight: The highest premium lounge eligibility is observed for early-morning long-haul flights and flights to/from North America.
+
 
 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
+
 Feel free to check the issues page if you have any.
+
 You can also fork the repository and submit a pull request.
 
+
 📫 Contact
+
 Oluwadarasimi Bamisaye Joshua - GitHub Profile
+
 Project Link: https://github.com/joshua-the-analyst/ba-simulation
 
+
 📝 License
+
 This project is licensed under the MIT License.
+
 Copyright © 2025 Oluwadarasimi Bamisaye Joshua.
