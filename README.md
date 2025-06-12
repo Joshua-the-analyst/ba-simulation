@@ -48,7 +48,7 @@ ba-simulation/
 │
 ├── data/
 │ ├── customer_booking.csv # Raw booking dataset
-│ └── final_processed_dataset_stage1.pkl Cleaned & feature-engineered data # (excluded due to size limits)
+│ └── final_processed_dataset_stage1.pkl Cleaned & feature-engineered data # excluded due to size limits
 │
 ├── models/ # (excluded due to size limits – model results shown in slides and plots)
 │
